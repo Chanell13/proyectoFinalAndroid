@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216532771781",
+    "firebase_url": "https://acmetexplorer.firebaseio.com",
+    "project_id": "acmetexplorer",
+    "storage_bucket": "acmetexplorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216532771781:android:7a0c339969b21bd1",
+        "android_client_info": {
+          "package_name": "es.us.acme.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216532771781-fosdk43h3pu78o2opdunj57e6l973pgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.us.acme.market",
+            "certificate_hash": "59c53f93bd2e50d33fd6a50535bbad3bc5593e0d"
+          }
+        },
+        {
+          "client_id": "216532771781-v8od0t54o272c2lgonjt4ndm50oa5pqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETsw1RiXquBKSfoZb14NZiF14T_zHgH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216532771781-v8od0t54o272c2lgonjt4ndm50oa5pqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Entregable1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_map">GPS</string>
+    <string name="fechaInicio">Fecha de inicio:</string>
+    <string name="fechaFin">Fecha de fin:</string>
+    <string name="fechaSalida">Fecha de salida:</string>
+    <string name="fechaLlegada">Fecha de llegada:</string>
+    <string name="LugarSalida">Lugar de Salida:</string>
+    <string name="precioMin">Precio mínimo:</string>
+    <string name="precioMax">Precio máximo:</string>
+    <string name="guardar">Guardar y volver:</string>
+    <string name="precio">Precio:</string>
+    <string name="detalles">Descripción:</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="default_web_client">216532771781-v8od0t54o272c2lgonjt4ndm50oa5pqc.apps.googleusercontent.com</string>
+    <string name="action_logout">Logout</string>
+    <string name="setting_profile_picture_title">Selecciona el origen de la imagen</string>
+    <string name="permission_rationale_camera">Necesitamos acceder a la cámara para obtener tu foto</string>
+    <string name="permission_rationale_external_storage">Necesitamos acceder al almacenamiento interno para guardar la imagen</string>
+    <string name="permission_rationale_ok">Aceptar</string>
+    <string name="setting_profile_picture_upload_title">Imagen almacenada en Firebase Storage</string>
+    <string name="setting_profile_picture_picked_title">Imagen seleccionada</string>
+    <string name="setting_profile_picture_error_uploading_title">Se ha producido un error al subir la imagen</string>
+    <string name="setting_profile_picture_error_yes">Aceptar</string>
+    <string name="setting_profile_picture_error_title">Se ha producido un error con esta imagen</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+    <string name="allow_fine_location">Permitir</string>
+    <string name="location_not_allowed">Localización no permitida</string>
+    <string name="allow_fine_location_question">Necesitamos conocer tu ubicación para mostrarla en el mapa</string>
+    <string name="allow_fine_location_question_button">Permitir</string>
+    <string name="location_system_not_configured">La ubicación no está correctamente configurada</string>
+    <string name="location_system_not_configured_button">Configurar</string>
+    <string name="allow_fine_location_correct">Perfecto, ya podemos mostrar tu ubicación</string>
+    <string name="allow_fine_location_error">Seguimos sin poder mostrar tu ubicación</string>
+    <string name="service_not_available">Servicio de geocodificación no disponible</string>
+    <string name="invalid_lat_long_used">Localización no válida</string>
+    <string name="no_address_found">No se ha encontrado ninguna dirección</string>
+    <string name="channel_name">Canal por defecto</string>
+    <string name="channel_description">Este es el canal por defecto de la app</string>
+    <string name="action_perfil">Profile</string>
+    <string name="apply">Aplicar Filtros</string>
+    <string name="flag">flag</string>
+    <string name="name_city">Name City</string>
+
+</resources>
